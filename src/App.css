@@ -1,38 +1,52 @@
-.App {
-  text-align: center;
+.hero1 {
+  background-image: url(C:\Users\ralph\OneDrive\Desktop\Capstone\skularph_front\public\homepics\background1.png);
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center  !important;
+  align-items: center !important;
+  width: 100% !important;
+  height: 100vh !important;
+  opacity: 100% !important;
+  background-color: black !important;
+}
+.hero1-img {
+
+  background-repeat: no-repeat !important;
+  background-size: cover  !important;
+  background-position: center top !important;
+  padding-left: 10%;
+}
+.student1{
+  height: 679px !important;
+  object-fit: cover !important;
+  width: 409px !important;
+  margin-bottom: -30% !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.hero2 {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: top  !important;
+  align-items: left !important;
+  width: 100% !important;
+  height: 100vh !important;
+  opacity: 100% !important;
+  background-color: #73ABF3DE !important;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
 }
+ .numbering {
+  color: #0B121A;
+  size: 21px !important;
+ }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+ .background3 {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center  !important;
+  align-items: center !important;
+  width: 100% !important;
+  height: 100vh !important;
+  opacity: 100% !important;
+ }
