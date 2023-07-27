@@ -1,0 +1,134 @@
+
+.are-you-ready-to-emb {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-s2);
+    font-weight: 400;
+    height: 100px;
+    letter-spacing: 0.81px;
+    line-height: 22px;
+    width: 729px;
+}
+
+.group-10 {
+    align-items:flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+    min-height: 295px;
+    width: 480px;
+}
+
+.flex-row {
+    align-items: flex-start;
+    display: flex;
+    gap: 14px;
+    height: 95px;
+    min-width: 480px;
+}
+
+.flex-col {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    min-height: 92px;
+    width: 233px;
+}
+
+.overlap-group-1 {
+    align-items: flex-end;
+    background-color: var(--jordy-blue);
+    border-radius: 11px;
+    display: flex;
+    height: 37px;
+    min-width: 233px;
+    padding: 3px 15px;
+}
+
+.first-name {
+    letter-spacing: 0.81px;
+    line-height: 22px;
+    min-height: 26px;
+    min-width: 93px;
+    white-space: nowrap;
+}
+
+.email {
+    letter-spacing: 0.81px;
+    line-height: 22px;
+    min-height: 15px;
+    min-width: 26px;
+    white-space: nowrap;
+}
+
+.overlap-group-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+    min-height: 95px;
+    width: 233px;
+}
+
+.overlap-group {
+    align-items: flex-end;
+    background-color: var(--jordy-blue);
+    border-radius: 11px;
+    display: flex;
+    height: 37px;
+    min-width: 233px;
+    padding: 3px 10px;
+}
+
+.last-name {
+    letter-spacing: 0.81px;
+    line-height: 22px;
+    min-height: 26px;
+    min-width: 91px;
+    white-space: nowrap;
+}
+
+.phone {
+    letter-spacing: 0.81px;
+    line-height: 22px;
+    min-height: 26px;
+    min-width: 55px;
+    white-space: nowrap;
+}
+
+.overlap-group1 {
+    align-items: flex-start;
+    background-color: var(--jordy-blue);
+    border-radius: 11px;
+    display: flex;
+    height: 121px;
+    min-width: 480px;
+    padding: 10px 15px;
+}
+
+.message {
+    letter-spacing: 0.81px;
+    line-height: 22px;
+    min-height: 26px;
+    white-space: nowrap;
+}
+
+.overlap-group3 {
+    align-items: flex-end;
+    background-color: var(--jordy-blue);
+    border-radius: 11px;
+    display: flex;
+    height: 37px;
+    justify-content: flex-end;
+    min-width: 72px;
+    padding: 3px 12px;
+}
+
+.place {
+    letter-spacing: 0.81;
+    line-height: 22px;
+    min-height: 26px;
+    min-width: 45px;
+    white-space: nowrap;
+}

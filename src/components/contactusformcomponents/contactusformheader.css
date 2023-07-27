@@ -1,0 +1,27 @@
+.place {
+    letter-spacing: 0;
+    line-height: 60px;
+    min-height: 32px;
+    white-space: nowrap;
+}
+
+.about-us {
+    letter-spacing: 0;
+    line-height: 60px;
+    min-height: 32px;
+    white-space: nowrap;
+}
+
+.sponsors {
+    letter-spacing: 0;
+    line-height: 60px;
+    min-height: 32px;
+    white-space: nowrap;
+}
+
+.title {
+    height: 57px;
+    letter-spacing: 0;
+    line-height: 40px;
+    width: 589px;
+}
